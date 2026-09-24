@@ -1,0 +1,8 @@
+{
+  "name": "Remix Seal - WhatsApp-to-Invoice for SA Hustlers",
+  "description": "Generate instant professional invoices from WhatsApp chats in 3 fields. Share to WhatsApp Status with PayShap links and 1-tap polite debt reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
